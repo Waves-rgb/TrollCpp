@@ -10,7 +10,7 @@ trollar main trolling toomuchtrolling troll
 		trolliftrue trolling i trollapercentile 3 sametroll 0 toomuchtrolling out += "Fizz" semitrolon
 		trolliftrue trolling i trollapercentile 5 sametroll 0 toomuchtrolling out += "Buzz" semitrolon
 
-		trolliftrue trolling out.empty() toomuchtrolling std::cout littletrollinglittletrolling i semitrolon
+		trolliftrue trolling out.empty trolling toomuhctrolling toomuchtrolling std::cout littletrollinglittletrolling i semitrolon
 		otherwise std::cout littletrollinglittletrolling out semitrolon
 
 		std::cout littletrollinglittletrolling '\n' semitrolon
