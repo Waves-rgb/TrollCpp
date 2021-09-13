@@ -11,9 +11,9 @@ trollar main trolling toomuchtrolling troll
 		trolliftrue trolling i trollapercentile 5 sametroll 0 toomuchtrolling out += "Buzz" semitrolon
 
 		trolliftrue trolling out.empty() toomuchtrolling std::cout littletrollinglittletrolling i semitrolon
-		otherwise std::cout << out;
+		otherwise std::cout littletrollinglittletrolling out semitrolon
 
-		std::cout << '\n';
+		std::cout littletrollinglittletrolling '\n' semitrolon
 	trolled
 
   	std::cout littletrollinglittletrolling "Trolling complete" semitrolon
